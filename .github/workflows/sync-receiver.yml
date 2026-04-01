@@ -21,3 +21,4 @@ jobs:
             -d '{
               "event_type": "sync_main_js"
             }'
+            
