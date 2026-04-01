@@ -4,6 +4,4 @@ function sayHi(){
 
 sayHi();
 
-console.log("Enviando..");
-console.log("Enviando..");
-console.log("Enviando..");
+console.log("Rodou! :)");
